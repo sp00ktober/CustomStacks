@@ -1,0 +1,9 @@
+{
+  "name": "CustomStacks",
+  "description": "BepInEx mod for Starsand to increase the maximum stack size.",
+  "version_number": "0.0.1",
+  "dependencies": [
+    "BepInEx-BepInExPack_Starsand-5.4.16"
+  ],
+  "website_url": "https://github.com/sp00ktober/CustomStacks"
+}
